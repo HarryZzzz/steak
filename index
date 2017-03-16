@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>首页</title>
+		<link rel="stylesheet"  type="text/css" href="css/common.css">
+		<link rel="stylesheet"  type="text/css" href="css/style.css">
+	</head>
+	<body>
+	<div class="clearfix nav">
+		<a class="logo" href="javascript:;"></a>
+		<ul class="clearfix nav-wrap">
+			<li><a class="nav-item nav-active" href="index.html">首页</a></li>
+			<li><a class="nav-item" href="pinpai.html">品牌故事</a></li>
+			<li><a class="nav-item" href="meishi.html">美食系列</a></li>
+				<li><a class="nav-item" href="shop.html">店面展示</a></li>
+				<li><a class="nav-item" href="news.html">新闻资讯</a></li>
+				<li><a class="nav-item" href="about-us.html">关于我们</a></li>
+		</ul>
+	</div>
+	
+	<div id="container">
+		<div id="button">
+			<span index="1" class="on"></span>
+			<span index="2"></span>
+			<span index="3"></span>
+		</div>
+		<a href="" id="prev" class="arrow"><img src="img/l.png"></a>
+		<a href="" id="next" class="arrow"><img src="img/r.png"></a>
+	</div>
+	
+	<div class="new-wrap">
+		<p class="newfood-tit">新品推荐</p>
+		<div class="newfood-box clear-fix" id="newfood-table">
+			<ul class="newfood-wrap clearfix newfood-show">
+				<li class="newfood-item newfood-right newfood-li1">
+						<a href="meishi-con.html" class="newfood-p1">茶漱海鲜汤</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li2">
+						<a href="meishi-con.html" class="newfood-p2">玉米海螺沟</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li3">
+						<a href="meishi-con.html" class="newfood-p3">芝士蛋糕卷</a>
+					</li>
+					<li class="newfood-item newfood-li4">
+						<a href="meishi-con.html" class="newfood-p4">芝士大虾</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li5">
+						<a href="meishi-con.html" class="newfood-p5">西冷牛排</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li6">
+						<a href="meishi-con.html" class="newfood-p6">草莓布丁杯</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li7">
+						<a href="meishi-con.html" class="newfood-p7">黑椒牛排</a>
+					</li>
+					<li class="newfood-item newfood-li8">
+						<a href="meishi-con.html" class="newfood-p8">茶漱海鲜汤</a>
+					</li>
+			</ul>
+			<ul class="newfood-wrap clearfix">
+					<li class="newfood-item newfood-right newfood-li5">
+						<a href="meishi-con.html" class="newfood-p5">西冷牛排</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li6">
+						<a href="meishi-con.html" class="newfood-p6">草莓布丁杯</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li7">
+						<a href="meishi-con.html" class="newfood-p7">黑椒牛排</a>
+					</li>
+					<li class="newfood-item newfood-li8">
+						<a href="meishi-con.html" class="newfood-p8">茶漱海鲜汤</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li1">
+						<a href="meishi-con.html" class="newfood-p1">茶漱海鲜汤</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li2">
+						<a href="meishi-con.html" class="newfood-p2">玉米海螺沟</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li3">
+						<a href="meishi-con.html" class="newfood-p3">芝士蛋糕卷</a>
+					</li>
+					<li class="newfood-item newfood-li4">
+						<a href="meishi-con.html" class="newfood-p4">芝士大虾</a>
+					</li>
+				</ul>
+				<ul class="newfood-wrap clearfix">
+					<li class="newfood-item newfood-right newfood-li3">
+						<a href="meishi-con.html" class="newfood-p3">芝士蛋糕卷</a>
+					</li>
+					<li class="newfood-item newfood-li4">
+						<a href="meishi-con.html" class="newfood-p4">芝士大虾</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li1">
+						<a href="meishi-con.html" class="newfood-p1">茶漱海鲜汤</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li2">
+						<a href="meishi-con.html" class="newfood-p2">玉米海螺沟</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li7">
+						<a href="meishi-con.html" class="newfood-p7">黑椒牛排</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li5">
+						<a href="meishi-con.html" class="newfood-p5">西冷牛排</a>
+					</li>
+					<li class="newfood-item newfood-right newfood-li6">
+						<a href="meishi-con.html" class="newfood-p6">草莓布丁杯</a>
+					</li>
+					<li class="newfood-item newfood-li8">
+						<a href="meishi-con.html" class="newfood-p8">茶漱海鲜汤</a>
+					</li>
+				</ul>
+		</div>
+		<div class="clearfix" id="newfood-span">
+			<span style="background：url(../img/icon-2.png);"></span>
+			<span></span>
+			<span></span>
+		</div>
+	</div>
+	</body>
+</html>
