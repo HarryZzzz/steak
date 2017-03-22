@@ -124,6 +124,7 @@ clear:both;
 	margin-top: 18px;
 	width: 120px;
 	margin: 0 auto;
+	clear:both;
 }
 #newfood-span > span{
 	display: block;
@@ -285,4 +286,85 @@ clear:both;
 }
 .newfood-li8:hover .newfood-p8{
 	display:block;
+}
+
+.company-wrap{
+	margin-top:150px;
+	border-top:2px solid #533336;
+	clear:both;
+	display:block;
+}
+
+.company-tit{
+	display:block;
+	margin:-25px auto 30px auto;
+	line-height:50px;
+	font-size:30px;
+	width:300px;
+	background-color:#533336;
+	text-align:center;
+	color:#fff
+}
+
+.company-dl{
+	width:1080px;
+	margin:0px auto;
+}
+.company-dt{
+	float:left;
+}
+.company-dd{
+	width:544px;
+	margin-left:34px;
+	float:left;
+	line-height:30px;
+	font-size:15px;
+}
+
+.news-wrap{
+	margin-top:150px;
+	border-top:2px solid #533336;
+}
+.news-tit{
+	width:300px;
+	line-height:50px;
+	margin:-25px auto 30px auto;
+	background-color:#533336;
+	color:#fff;
+	text-align:center;
+	font-size:30px;
+}
+.news-dl{
+	width:1080px;
+	margin:0px auto;
+}
+.news-dt{
+	float:left;
+}
+.news-dd{
+	float:left;
+	width:544px;
+	margin-left:34px;
+	font-size:15px;
+	margin-top:-4px;
+}
+
+.link-tit{
+	float:left;
+	font-size:18px;
+	width:300px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+}
+.link-time{
+	float:right;
+	font-size:16px;
+}
+.news-link{
+	line-height:34px;
+	color:#333;
+}
+.news-link:hover{
+	color:#533336;
 }
