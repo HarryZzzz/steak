@@ -19,12 +19,13 @@ button{
 img{
     display: block;
 }
-
-
-/**/
-
-
-/*清除浮动代码*/
+.clearfix:after{
+	display:block;
+	clear:both;
+	content:"";
+	visibility:hidden;
+	height:0;
+}
 
 
 
