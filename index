@@ -181,5 +181,46 @@
 			</dd>
 		</dl>
 	</div>
+	
+	<div class="foot-all">
+	<div class="foot">
+		<p class="foot-name">
+			友情链接
+		</p>
+	
+			<ul class="link-icon clearfix">
+				<li class="icon-pic" id="icon1">
+					<a class="icon-list"></a>
+				</li>
+				<li class="icon-pic" id="icon2">
+					<a class="icon-list"></a>
+				</li>
+				<li class="icon-pic" id="icon3">
+					<a class="icon-list"></a>
+				</li>
+				<li class="icon-pic" id="icon4">
+					<a class="icon-list"></a>
+				</li>
+				<li class="icon-pic" id="icon5">
+					<a class="icon-list"></a>
+				</li>
+				<li class="icon-pic" id="icon6">
+					<a class="icon-list"></a>
+				</li>
+			</ul>
+	
+		<div class="infomation">
+			<p class="copyright">
+				CopyRight@2003-2015 www.91cy.cn All right reserved
+			</p>
+			<p class="banquan">
+				版权所有：贵族食代牛排有限公司 来源：<a href="">源码之家</a>
+			</p>
+			<p class="ICP">
+				ICP备案号：京。。。。
+			</p>
+		</div>
+	</div>
+	</div>
 	</body>
 </html>
